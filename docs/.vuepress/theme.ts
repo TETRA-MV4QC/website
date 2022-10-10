@@ -6,8 +6,8 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "Jonas Lannoo",
+    url: "https://www.linkedin.com/in/jonas-lannoo-8a8923101/",
   },
 
   iconAssets: "iconfont",
@@ -30,7 +30,7 @@ export default hopeTheme({
 
       footer: "Default footer",
 
-      displayFooter: false,
+      displayFooter: true,
 
       metaLocales: {
         editLink: "Edit this page on GitHub",
