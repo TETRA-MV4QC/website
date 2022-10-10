@@ -3,8 +3,8 @@ home: true
 icon: home
 title: Homepage
 heroImage: /logo.jpg
-heroText: MV4QC
-tagline: Welcome to the page of the VLAIO TETRA project Machine Vision for Quality Control.
+heroText: VLAIO TETRA MV4QC
+tagline: Machine Vision for Quality Control
 actions:
   - text: How to Use 💡
     link: /demo/
@@ -14,6 +14,11 @@ actions:
     link: /guide/
 
 features:
+  - title: Feedback UG1
+    icon: blog
+    details: Questionnaire for Usergroup meeting 1
+    link: /UG1/
+
   - title: Markdown Enhance
     icon: markdown
     details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in markdown
