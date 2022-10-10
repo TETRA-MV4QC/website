@@ -12,11 +12,11 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "MV4QC/website",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "docs",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
