@@ -1,0 +1,27 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Repository for the website of MV4QC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TETRA-MV4QC/website.git"
+  },
+  "author": "Jonas Lannoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TETRA-MV4QC/website/issues"
+  },
+  "homepage": "https://github.com/TETRA-MV4QC/website#readme",
+  "devDependencies": {
+    "vuepress": "2.0.0-beta.51",
+    "@vuepress/client": "2.0.0-beta.51",
+    "vue": "^3.2.29",
+    "vuepress-theme-hope": "2.0.0-beta.106"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache"
+  }
+}
