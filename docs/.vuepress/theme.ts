@@ -3,7 +3,7 @@ import { enNavbar } from "./navbar/index.js";
 import { enSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://mv4qc.netlify.app",
 
   author: {
     name: "Jonas Lannoo",
@@ -30,7 +30,11 @@ export default hopeTheme({
 
       footer: "VLAIO TETRA MV4QC - Project website",
 
-      displayFooter: true
+      displayFooter: true,
+
+      metaLocales: {
+        editLink: "Edit this page on Github"
+      }
     },
   },
 
