@@ -28,13 +28,9 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "VLAIO TETRA MV4QC - Project website",
 
-      displayFooter: true,
-
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
+      displayFooter: true
     },
   },
 
